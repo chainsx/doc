@@ -13,7 +13,7 @@ sleep 10
 sudo ./fastboot flash uboot ./images/u-boot-with-spl.bin
 ```
 
-For installation of drivers, refer to the [official Wiki](https://wiki.sipeed.com/hardware/zh/lichee/th1520/lpi4a/4_burn_image.html).
+For installation of drivers, refer to the [Sipeed official Wiki](https://wiki.sipeed.com/hardware/zh/lichee/th1520/lpi4a/4_burn_image.html).
 
 ### 3. Flash the system
 
